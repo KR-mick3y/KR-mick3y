@@ -2,9 +2,7 @@
 
 Currently working on a Red Team at a major enterprise in South Korea.
 - Conducting black-box penetration testing against large Korean enterprises across strategic industries, including advanced manufacturing, telecommunications, IT, and customer-facing services
-
 - Performing internal network penetration testing under assumed-breach scenarios
-
 - Focusing on Active Directory, Windows environments, and cloud infrastructure
 ---
 ## 🔬 Research & Activities
