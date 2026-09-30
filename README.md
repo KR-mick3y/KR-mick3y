@@ -31,6 +31,6 @@ Currently working on a Red Team at a major enterprise in South Korea.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
-## Contact
+## 📞 Contact
 - LinkedIn: https://www.linkedin.com/in/kr-mick3y
 - Email: kr.mick3y@gmail.com
